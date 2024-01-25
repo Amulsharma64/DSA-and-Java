@@ -1,4 +1,4 @@
-package bitMenupulation;
+package bitManipulation;
 
 public class clearBit {
     public static void main(String[] args) {

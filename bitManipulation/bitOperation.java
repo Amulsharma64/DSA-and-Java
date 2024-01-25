@@ -1,4 +1,4 @@
-package bitMenupulation;
+package bitManipulation;
 
 public class bitOperation {
     public static void main(String[] args) {

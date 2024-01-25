@@ -1,5 +1,4 @@
-package bitMenupulation;
-
+package bitManipulation;
 import java.util.Scanner;
 
 public class updateBit {
